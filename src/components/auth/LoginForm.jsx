@@ -1,6 +1,6 @@
 export default function LoginForm({ switchMode }) {
   return (
-    <div className="w-full md:w-1/2 flex items-center justify-center bg-gray-50">
+    <div className="w-full h-full flex items-center justify-center bg-gray-50">
       <div className="w-full max-w-md p-10">
         <h2 className="text-3xl font-bold">Welcome Back !</h2>
 

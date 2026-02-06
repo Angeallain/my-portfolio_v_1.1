@@ -3,7 +3,7 @@ import bg from "../../images/happy_gaza.png";
 
 export default function AuthSidePanel({ buttonText, onClick }) {
   return (
-    <div className="hidden md:flex w-1/2 relative">
+    <div className="hidden md:flex w-full h-full relative">
       <img
         src={bg}
         className="absolute inset-0 w-full h-full object-cover"/>
