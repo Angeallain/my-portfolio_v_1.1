@@ -1,7 +1,7 @@
-import Auth from "./pages/Auth";
+import Portfolio from "./pages/Portfolio";
 
 function App() {
-  return <Auth />;
+  return <Portfolio />;
 }
 
 export default App;
