@@ -3,7 +3,7 @@
 A personal portfolio website built with React, Tailwind CSS, and Framer Motion.
 
 ## 🔗 Live Demo
-[Coming soon](#)
+https://my-portfolio-v-1-1.vercel.app/
 
 ## ✨ Features
 - Responsive design (mobile & desktop)
