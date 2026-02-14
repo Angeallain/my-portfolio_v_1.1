@@ -21,10 +21,9 @@ export default function Contact() {
     };
 
     emailjs.send(
-      "service_1ih66b7",      // ← from emailjs.com dashboard
-      "template_zz682an",     // ← from emailjs.com dashboard
-      templateParams,
-      "FJ9Rnf0Jhv9pSAbvZ"       // ← from emailjs.com → Account → Public Key
+      "service_1ih66b7",      
+      "template_zz682an",     
+      "FJ9Rnf0Jhv9pSAbvZ"       
     )
     .then(() => setStatus("sent"))
     .catch(() => setStatus("error"));

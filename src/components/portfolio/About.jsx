@@ -1,14 +1,14 @@
 export default function About() {
   const skills = [
-    { name: "Html/CSS", level: 90 },
-    { name: "JavaScript", level: 80 },
-    { name: "SQL", level: 75 },
-    { name: "UI/UX", level: 70 },
-    { name: "Java", level: 65 },
-    { name: "Php", level: 65 },
-    { name: "Python", level: 60 },
-    { name: "React", level: 50 },
-    { name: "Node.js", level: 50 }
+    { name: "Html/CSS", value: 90 },
+    { name: "JavaScript", value: 80 },
+    { name: "SQL", value: 75 },
+    { name: "UI/UX", value: 70 },
+    { name: "Java", value: 65 },
+    { name: "Php", value: 65 },
+    { name: "Python", value: 60 },
+    { name: "React", value: 50 },
+    { name: "Node.js", value: 50 }
   ];
 
   return (
