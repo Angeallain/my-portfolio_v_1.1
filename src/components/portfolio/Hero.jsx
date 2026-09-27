@@ -19,7 +19,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="text-xl text-orange-500 mt-3">
-            Software Engineering Student
+            Final Year Software Engineering Student
           </h2>
 
           <p className="mt-6 text-gray-600 dark:text-gray-300 max-w-sm mx-auto md:mx-0 text-pretty">
@@ -40,7 +40,7 @@ export default function Hero() {
               LinkedIn
             </a>
 
-            <a href="https://drive.google.com/drive/folders/1iOtR23HhJWiP7w5FTE_Gh6YLELnGBUJX"
+            <a href="https://drive.google.com/drive/folders/1Ept6JShCvX_6LsfQ8uii-Hddu2QLgHQ-"
               className="flex items-center gap-2 px-6 py-3 bg-orange-500 text-white rounded-lg">
               <FileText size={20} />
               CV

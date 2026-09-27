@@ -3,6 +3,50 @@ import { motion } from "framer-motion";
 export default function Projects() {
   const projects = [
     {
+        name: "NODEX — Offline Mesh Communication",
+        year: "2026 — 3-Day Remote Hackathon (3rd Place)",
+        desc: "An offline-first decentralized communication platform allowing nearby smartphones to communicate without Internet or cellular infrastructure.",
+        skills: [
+            "Flutter",
+            "Dart",
+            "Bluetooth",
+            "Wi-Fi Direct",
+            "Google Nearby Connections",
+            "AES-256-GCM"
+        ],
+        link: "https://canva.link/3lhpaae8zm4vpaw"
+    },
+    {
+        name: "Support AT — Customer Support Platform",
+        year: "2026 — Algérie Télécom Internship",
+        desc: "Customer support and ticket management platform developed during a 3-month internship, with contributions across both front-end and back-end development.",
+        skills: [
+            "React",
+            "Node.js",
+            "MySQL",
+            "Docker",
+            "REST API",
+            "Authentication",
+            "Ticket Management"
+        ],
+        link: "https://drive.google.com/drive/folders/1E5tYVaWsGYIAffXqN8jytJEiVnD6qatq"
+    },
+    {
+        name: "Industrial Monitoring with MCP",
+        year: "2026 — Multidisciplinary Project",
+        desc: "AI-assisted industrial monitoring and predictive maintenance prototype combining Model Context Protocol (MCP), IIoT, LLMs, and Edge-Fog-Cloud architectures.",
+        skills: [
+            "MCP",
+            "IIoT",
+            "LLM",
+            "TimescaleDB",
+            "Python",
+            "AI",
+            "Edge-Fog-Cloud"
+        ],
+        link: "https://drive.google.com/drive/folders/10soGjqzpjGlDkLS7FO9-BRGNJJI_cGU4"
+    },
+    {
       name: "Maawah Platform",
       year: "2026 — HackIn 8 (1st Place)",
       desc: "Web platform helping rebuild Gaza by connecting needs, resources and people.",

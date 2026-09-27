@@ -18,7 +18,7 @@ export default function About() {
         <div>
           <h2 className="text-4xl font-bold">About Me</h2>
           <p className="mt-6 text-gray-600 dark:text-gray-300">
-            I'm a dedicated software engineering student with a passion for creating elegant solutions 
+            I'm a dedicated final year software engineering student with a passion for creating elegant solutions 
             to complex problems. My journey in tech started with curiosity and has evolved into a 
             commitment to continuous learning and innovation.
           </p>

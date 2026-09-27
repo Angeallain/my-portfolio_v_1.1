@@ -13,6 +13,44 @@ export default function Experience() {
       ]
     },
     {
+      name: "NODEX — 3-Day Remote Hackathon",
+      location: "Remote",
+      time: "2026",
+      points: [
+          "Collaborated with a team to build an offline-first decentralized mesh communication platform",
+          "Developed peer-to-peer communication using Flutter, Bluetooth/Wi-Fi Direct, and Google Nearby Connections",
+          "Implemented multi-hop message routing, device discovery, and AES-256-GCM encrypted communication",
+          "Achieved 3rd place in the hackathon"
+      ]
+    },
+    {
+      name: "Algérie Télécom — Support AT",
+      location: "Algiers",
+      time: "March 2026 - June 2026",
+      points: [
+          "Completed a 3-month software development internship with Mansour Imene, contributing to both front-end and back-end development of a customer support and ticket management platform",
+          "Developed and integrated React-based interfaces with a Node.js REST API for authentication, ticket management, notifications, profiles, and role-based access",
+          "Worked on authentication features including OTP verification, JWT-based authentication, password reset, and protected routes",
+          "Contributed to backend development with Node.js and MySQL, including ticket assignment, SLA management, attachments, statistics, notifications, and audit logs",
+          "Used Docker to containerize and run the application and its supporting services",
+          "Collaborated on API integration, debugging, testing, and improving consistency between front-end and back-end components"
+      ]
+    },
+    {
+      name: "Multidisciplinary Project — MCP & IIoT",
+      location: "USTHB - Algiers",
+      time: "March 2026 - June 2026",
+      points: [
+          "Worked as part of a 5-member team on a project combining Model Context Protocol (MCP), Industrial IoT, Large Language Models, and Edge-Fog-Cloud architectures",
+          "Designed and implemented an industrial monitoring and predictive maintenance use case for an Oil & Gas pipeline environment",
+          "Designed a relational database using TimescaleDB to store and analyze industrial time-series data from machines and sensors",
+          "Implemented an MCP server to provide structured and controlled access to industrial data and operations",
+          "Integrated an AI agent capable of querying and analyzing industrial data through natural language",
+          "Developed automated analytical reports covering system status, risk and alert analysis, pipeline performance, critical machines, and maintenance recommendations",
+          "Worked with technologies including MCP, TimescaleDB, LLMs, SQL, Python, and distributed system concepts"
+      ]
+    },
+    {
       name: "HackIn 8 — CSE Internal Hackathon Winner",
       location: "ESI - Algiers",
       time: "February 2026",
